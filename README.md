@@ -1,0 +1,2 @@
+# Safelink-Page-Blogger
+ Fitur Blog Safelink: Template blog safelink yang sudah di design responsive     Sudah terdapat slot iklan untuk adsense atau iklan cpc lainnya     Anti banned AdSense     High CTR dan BPK     Tidak terdapat error 404     Tidak terdapat kode aneh atau bahasa mandarin di address bar setelah melewati safelink     Visit link didalam artikel     Safelink ini menggunakan skema auto generate
